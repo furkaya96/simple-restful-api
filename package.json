@@ -1,0 +1,33 @@
+{
+  "name": "simple-restful-api",
+  "version": "1.0.0",
+  "description": "A simple NodeJS server that responds to GET, POST, PUT and DELETE request with JSON.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkaya06/simple-restful-api.git"
+  },
+  "keywords": [
+    "restful-api",
+    "nodejs",
+    "express",
+    "mongoose",
+    "mongodb",
+    "http",
+    "request",
+    "response",
+    "get",
+    "post",
+    "put",
+    "delete"
+  ],
+  "author": "Furkan Kaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furkaya06/simple-restful-api/issues"
+  },
+  "homepage": "https://github.com/furkaya06/simple-restful-api#readme"
+}
