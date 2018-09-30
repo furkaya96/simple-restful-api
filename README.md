@@ -36,3 +36,12 @@ npm start
 ```
 
 The API server is listening on port 3000 if it is available. http://localhost:3000
+
+## Example Get Request URLs
+
+```
+http://localhost:3000/api/v1/users
+http://localhost:3000/api/v1/users?active=true
+http://localhost:3000/api/v1/users?active=true&gender=female
+http://localhost:3000/api/v1/users?limit=10&skip=5
+```
